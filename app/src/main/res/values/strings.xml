@@ -1,0 +1,769 @@
+<resources>
+    <string name="app_name">AIFPU SELF SERVICE v1.0</string>
+
+    <string name="text_aifpu_h_desk">AIFPU SELF SERVICE</string>
+    <string name="text_aifpu_h_desk_version">v1.0</string>
+
+    <string-array name="help_desk_list">
+        <item>How To Check Result</item>
+        <item>How To Register Course</item>
+        <item>How To Generate Remita From Your Portal</item>
+        <item>Admission Requirement</item>
+    </string-array>
+
+    <string name="button_all_departments">All Departments</string>
+    <string name="text_aifpu_departments">AIFPU DEPTS</string>
+
+    <string-array name="department_list">
+        <item>ACCOUNTANCY</item>
+        <item>AGRICULTURAL TECHNOLOGY</item>
+        <item>ARCHITECTURAL TECHNOLOGY</item>
+        <item>BUILDING TECHNOLOGY</item>
+        <item>BUSINESS ADMINISTRATION &amp; MANAGEMENT</item>
+        <item>CIVIL ENGINEERING TECHNOLOGY</item>
+        <item>COMPUTER ENGINEERING</item>
+        <item>COMPUTER SCIENCE</item>
+        <item>ELECTRICAL/ELECTRONICS ENGINEERING</item>
+        <item>ESTATE MANAGEMENT AND VALUATION</item>
+        <item>FOOD TECHNOLOGY</item>
+        <item>GLASS/CERAMICS TECHNOLOGY</item>
+        <item>HORTICULTURAL TECHNOLOGY</item>
+        <item>HOSPITALITY MANAGEMENT</item>
+        <item>LIBRARY AND INFORMATION SCIENCE</item>
+        <item>MARKETING</item>
+        <item>MECHANICAL ENGINEERING TECHNOLOGY</item>
+        <item>MECHATRONICS ENGINEERING TECHNOLOGY</item>
+        <item>METALLURGICAL ENGINEERING TECHNOLOGY</item>
+        <item>OFFICE TECHNOLOGY AND MANAGEMENT</item>
+        <item>PUBLIC ADMINISTRATION</item>
+        <item>QUANTITY SURVEYING</item>
+        <item>SCIENCE LABORATORY TECHNOLOGY</item>
+        <item>STATISTICS</item>
+        <item>SURVEYING AND GEOINFORMATICS</item>
+        <item>URBAN AND REGIONAL PLANNING</item>
+    </string-array>
+
+    <string name="button_chat_room">Chat Room</string>
+    <string name="o_level_requirement">O-LEVEL REQUIREMENTS\n(WAEC, NECO, NABTEB)</string>
+    <string name="jamb_requirement">JAMB SUBJET COMBINATION\n(ENGLISH IS COMPULSORY)</string>
+
+    <!--Kkk-->
+    <string-array name="kkk_olevel">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="kkk_olevel_following">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="kkk_jamb">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="kkk_jamb_following">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <!--Accountancy-->
+    <string-array name="accountancy_olevel">
+        <item>English Language (not Literature in English)</item>
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="accountancy_olevel_following">
+        <item>Economics or Commerce</item>
+        <item>Business Methods</item>
+        <item>Principles of Accounts</item>
+        <item>Literature in English</item>
+        <item>Geography</item>
+        <item>Office Practice</item>
+        <item>Biology/Agricultural Science/Chemistry/Physics</item>
+        <item>History/Government</item>
+        <item>Typewriting/ Shorthand</item>
+        <item>Data Processing/Computer Studies</item>
+    </string-array>
+    <string-array name="accountancy_jamb">
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="accountancy_jamb_following">
+        <item>Geography</item>
+        <item>Commerce/Economics</item>
+        <item>Government/History</item>
+        <item>Principles of Accounts</item>
+    </string-array>
+
+    <!--Agricultural Technology-->
+    <string-array name="agric_olevel">
+        <item>English Language</item>
+        <item>Chemistry</item>
+        <item>Agricultural Science or Biology</item>
+    </string-array>
+    <string-array name="agric_olevel_following">
+        <item>Physics</item>
+        <item>Economics or Commerce</item>
+        <item>Geography</item>
+        <item>Fishery or Animal Husbandry</item>
+        <item>Health Science</item>
+        <item>Computer Science</item>
+    </string-array>
+    <string-array name="agric_jamb"/>
+    <string-array name="agric_jamb_following">
+        <item>Mathematics</item>
+        <item>Chemistry</item>
+        <item>Agricultural Science or Biology</item>
+        <item>Economics or Commerce</item>
+        <item>Geography</item>
+        <item>Physics</item>
+    </string-array>
+        
+    <!--Architectural Technology-->
+    <string-array name="archi_tech_olevel">
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>English Language</item>
+    </string-array>
+    <string-array name="archi_tech_olevel_following">
+        <item>Biology</item>
+        <item>Fine Art</item>
+        <item>Chemistry</item>
+        <item>History</item>
+        <item>Geography</item>
+        <item>Further Mathematics</item>
+        <item>Economics or Commerce</item>
+        <item>Religious Knowledge</item>
+        <item>Technical Drawing</item>
+        <item>Business Method</item>
+        <item>A pass in Fine Art or Technical Drawing will be an advantage</item>
+    </string-array>
+    <string-array name="archi_tech_jamb">
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="archi_tech_jamb_following">
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Technical Drawing</item>
+        <item>Geography</item>
+    </string-array>
+
+    <!--Building Technology-->
+    <string-array name="build_tech_olevel">
+        <item>English</item>
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="build_tech_olevel_following">
+        <item>Economics or Commerce</item>
+        <item>Technical Drawing or Fine Art</item>
+        <item>Chemistry</item>
+        <item>Geography</item>
+        <item>Further Mathematics</item>
+        <item>Woodwork</item>
+        <item>Biology</item>
+        <item>Religious Knowledge</item>
+        <item>Metal Work</item>
+        <item>A pass in Fine Arts or Technical Drawing will be an advantage</item>
+    </string-array>
+    <string-array name="build_tech_jamb">
+        <item>Mathematics</item>
+        <item>Physics or Technical Drawing</item>
+        <item>Chemistry or Fine Arts</item>
+    </string-array>
+    <string-array name="build_tech_jamb_following"/>
+
+    <!--Business Administration & Management-->
+    <string-array name="bus_admin_olevel">
+        <item>English Language (not Literature in English)</item>
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="bus_admin_olevel_following">
+        <item>Economics or Commerce</item>
+        <item>Business Methods</item>
+        <item>Principles of Accounts</item>
+        <item>Literature in English</item>
+        <item>Geography</item>
+        <item>Office Practice</item>
+        <item>Biology or Agricultural Science or Chemistry or Physics</item>
+        <item>History or Government</item>
+        <item>Typewriting or Shorthand</item>
+        <item>Data Processing or Computer Studies</item>
+    </string-array>
+    <string-array name="bus_admin_jamb">
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="bus_admin_jamb_following">
+        <item>Geography</item>
+        <item>Commerce or Economics</item>
+        <item>Government or History</item>
+        <item>Principles of Accounts</item>
+    </string-array>
+
+    <!--Civil Engineering-->
+    <string-array name="civil_engr_olevel">
+        <item>English</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+    </string-array>
+    <string-array name="civil_engr_olevel_following">
+        <item>Biology or Agricultural Science</item>
+        <item>Technical Drawing</item>
+        <item>Basic Electronics or Basic Electricity</item>
+        <item>Metal Work</item>
+        <item>Woodwork</item>
+        <item>Further Mathematics</item>
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+    </string-array>
+    <string-array name="civil_engr_jamb">
+        <item>Mathematics</item>
+        <item>Physics or Technical Drawing</item>
+        <item>Chemistry</item>
+    </string-array>
+    <string-array name="civil_engr_jamb_following"/>
+
+    <!--Computer Engineering-->
+    <string-array name="comp_engr_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+    </string-array>
+    <string-array name="comp_engr_olevel_following">
+        <item>Biology or Agricultural Science</item>
+        <item>Technical Drawing</item>
+        <item>Basic Electronics or Basic Electricity</item>
+        <item>Auto Mechanics</item>
+        <item>Metal Work</item>
+        <item>Woodwork</item>
+        <item>Further Mathematics</item>
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+        <item>Data Processing or Computer Studies</item>
+    </string-array>
+    <string-array name="comp_engr_jamb">
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry or Technical Drawing</item>
+    </string-array>
+    <string-array name="comp_engr_jamb_following"/>
+
+    <!--Computer Science-->
+    <string-array name="comp_sci_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+    </string-array>
+    <string-array name="comp_sci_olevel_following">
+        <item>Economics or Commerce</item>
+        <item>Geography</item>
+        <item>Computer Studies or Data Processing</item>
+        <item>Further Mathematics</item>
+        <item>Chemistry</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Typewriting</item>
+    </string-array>
+    <string-array name="comp_sci_jamb">
+        <item>Mathematics</item>
+        <item>Physics</item>
+    </string-array>
+    <string-array name="comp_sci_jamb_following">
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+        <item>Chemistry</item>
+    </string-array>
+
+    <!--Electrical / Electronics Engineering-->
+    <string-array name="electr_engr_olevel">
+        <item>English</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+    </string-array>
+    <string-array name="electr_engr_olevel_following">
+        <item>Biology or Agricultural Science</item>
+        <item>Technical Drawing</item>
+        <item>Basic Electronics or Basic Electricity</item>
+        <item>Auto Mechanics</item>
+        <item>Metal Work</item>
+        <item>Woodwork</item>
+        <item>Further Mathematics</item>
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+    </string-array>
+    <string-array name="electr_engr_jamb">
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry or Technical Drawing</item>
+    </string-array>
+    <string-array name="electr_engr_jamb_following"/>
+
+    <!--Estate Management and Valuation-->
+    <string-array name="estate_olevel">
+        <item>Mathematics</item>
+        <item>English Language</item>
+        <item>Economics or Commerce</item>
+        <item>Basic Science or Physics or Biology or Agric Science or Chemistrt</item>
+    </string-array>
+    <string-array name="estate_olevel_following">
+        <item>Geography</item>
+        <item>Technical Drawing</item>
+        <item>Woodwork</item>
+        <item>Literature</item>
+        <item>Metal work</item>
+        <item>Accounting or Basic Survey</item>
+    </string-array>
+    <string-array name="estate_jamb">
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="estate_jamb_following">
+        <item>Economics or Commerce</item>
+        <item>Arts</item>
+        <item>Technical Drawing</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology or Agric Science</item>
+        <item>Geography</item>
+    </string-array>
+
+    <!--Food Technology-->
+    <string-array name="food_tech_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+        <item>Chemistry</item>
+        <item>Biology or Agricultural Science</item>
+    </string-array>
+    <string-array name="food_tech_olevel_following">
+        <item>Physics</item>
+        <item>Additional Mathematics</item>
+        <item>Economics or Commerce</item>
+        <item>Food Nutrition</item>
+        <item>Statistics</item>
+    </string-array>
+    <string-array name="food_tech_jamb">
+        <item>Biology or Agricultural Science</item>
+    </string-array>
+    <string-array name="food_tech_jamb_following">
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Mathematics</item>
+        <item>Economics or Commerce</item>
+    </string-array>
+
+    <!--Glass / Ceramics Technology-->
+    <string-array name="glass_ceramics_olevel">
+        <item>Mathematics</item>
+        <item>Physics or Chemistry</item>
+    </string-array>
+    <string-array name="glass_ceramics_olevel_following">
+        <item>Physics or Chemistry</item>
+        <item>Geography</item>
+        <item>English Language</item>
+        <item>Fine Arts</item>
+        <item>Economics or Commerce</item>
+        <item>Technical Drawing</item>
+    </string-array>
+    <string-array name="glass_ceramics_jamb">
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Fine Arts or Chemistry</item>
+    </string-array>
+    <string-array name="glass_ceramics_jamb_following"/>
+
+    <!--Horticultural Technology-->
+    <string-array name="horticulture_olevel">
+        <item>English</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+    </string-array>
+    <string-array name="horticulture_olevel_following">
+        <item>Biology or Agricultural Science</item>
+        <item>Technical Drawing</item>
+        <item>Basic Electronics or Basic Electricity</item>
+        <item>Auto Mechanics</item>
+        <item>Metal Work</item>
+        <item>Woodwork</item>
+        <item>Further Mathematics</item>
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+    </string-array>
+    <string-array name="horticulture_jamb"/>
+    <string-array name="horticulture_jamb_following">
+        <item>Mathematics</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>Technical Drawing/Fine Arts</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Geography</item>
+    </string-array>
+
+    <!--Hospitality Management-->
+    <string-array name="hospitality_olevel">
+        <item>English Language</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Mathematics</item>
+        <item>Geography</item>
+    </string-array>
+    <string-array name="hospitality_olevel_following">
+        <item>Food and Nutrition</item>
+        <item>Economics or Commerce</item>
+        <item>Technical Drawing</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Nigerian Language</item>
+        <item>Home Economics</item>
+        <item>Catering Craft Practice</item>
+    </string-array>
+    <string-array name="hospitality_jamb">
+        <item>Biology or Agricultural Science</item>
+    </string-array>
+    <string-array name="hospitality_jamb_following">
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Mathematics</item>
+        <item>Economics or Commerce</item>
+        <item>Geography</item>
+    </string-array>
+
+    <!--Library and Information Science-->
+    <string-array name="library_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="library_olevel_following">
+        <item>History or Government</item>
+        <item>Literature in English</item>
+        <item>Economics or Commerce</item>
+        <item>Fine Arts</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Basic Electricity</item>
+        <item>Geography</item>
+        <item>Typewriting</item>
+        <item>Commerce or Principles of Accounting</item>
+        <item>Data Processing or Computer Studies</item>
+    </string-array>
+    <string-array name="library_jamb"/>
+    <string-array name="library_jamb_following">
+        <item>Arts</item>
+        <item>Social Science</item>
+        <item>Physical Science</item>
+    </string-array>
+
+    <!--Marketing-->
+    <string-array name="marketing_olevel">
+        <item>English Language (not Literature in English)</item>
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="marketing_olevel_following">
+        <item>Economics or Commerce</item>
+        <item>Business Methods</item>
+        <item>Principles of Accounts</item>
+        <item>Literature in English</item>
+        <item>Geography</item>
+        <item>Office Practice</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Chemistry or Physics</item>
+        <item>History or Government</item>
+        <item>Typewriting or Shorthand</item>
+        <item>Data Processing or Computer Studies</item>
+        <item>Marketing</item>
+        <item>Civic Education</item>
+        <item>Store Management</item>
+        <item>Salesmanship</item>
+        <item>Trade or Entreprenuerial Studies and any other related Business subject</item>
+    </string-array>
+    <string-array name="marketing_jamb">
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="marketing_jamb_following">
+        <item>Geography</item>
+        <item>Commerce or Economics</item>
+        <item>Government or History</item>
+        <item>Principles of Accounts</item>
+    </string-array>
+
+    <!--Mechanical Engineering Technology-->
+    <string-array name="mech_engr_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+    </string-array>
+    <string-array name="mech_engr_olevel_following">
+        <item>Biology or Agricultural Science</item>
+        <item>Technical Drawing</item>
+        <item>Basic Electronics or Basic Electricity</item>
+        <item>Auto Mechanics</item>
+        <item>Metal Work</item>
+        <item>Further Mathematics</item>
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+    </string-array>
+    <string-array name="mech_engr_jamb">
+        <item>Mathematics</item>
+        <item>Chemistry</item>
+        <item>Physics or Technical Drawing</item>
+    </string-array>
+    <string-array name="mech_engr_jamb_following"/>
+
+    <!--Mechatronics Engineering Technology-->
+    <string-array name="mechatronics_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+    </string-array>
+    <string-array name="mechatronics_olevel_following">
+        <item>Biology or Agricultural Science</item>
+        <item>Technical Drawing</item>
+        <item>Basic Electronics or Basic Electricity</item>
+        <item>Auto Mechanics</item>
+        <item>Metal Work</item>
+        <item>Woodwork (for Civil Engineering Tech.)</item>
+        <item>Further Mathematics</item>
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+    </string-array>
+    <string-array name="mechatronics_jamb">
+        <item>Mathematics</item>
+        <item>Chemistry</item>
+        <item>Physics or Technical Drawing</item>
+    </string-array>
+    <string-array name="mechatronics_jamb_following"/>
+
+    <!--Metallurgical Engineering Technology-->
+    <string-array name="metallurgical_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+    </string-array>
+    <string-array name="metallurgical_olevel_following">
+        <item>Biology or Agricultural Science</item>
+        <item>Technical Drawing</item>
+        <item>Basic Electronics or Basic Electricity</item>
+        <item>Auto Mechanics</item>
+        <item>Metal Work</item>
+        <item>Woodwork</item>
+        <item>Further Mathematics</item>
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+        <item>Foundry Practice</item>
+        <item>Mineral Processing</item>
+        <item>Pattern Marking</item>
+    </string-array>
+    <string-array name="metallurgical_jamb">
+        <item>Mathematics</item>
+        <item>Chemistry</item>
+        <item>Physics or Technical Drawing or Metal Works</item>
+    </string-array>
+    <string-array name="metallurgical_jamb_following"/>
+
+    <!--Office Technology and Management-->
+    <string-array name="office_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="office_olevel_following">
+        <item>Economics or Commerce</item>
+        <item>Government or History</item>
+        <item>CRK</item>
+        <item>Office Practice</item>
+        <item>Accounts</item>
+        <item>Geography</item>
+        <item>Shorthand</item>
+        <item>Typewriting</item>
+        <item>Literature in English</item>
+        <item>Civic Education</item>
+        <item>Computer Studies</item>
+        <item>Data Processing</item>
+        <item>Any Science subject at not more than two sittings</item>
+    </string-array>
+    <string-array name="office_jamb"/>
+    <string-array name="office_jamb_following">
+        <item>Mathematics</item>
+        <item>Commerce or Economics</item>
+        <item>Government or History</item>
+        <item>Geography</item>
+        <item>CRS or IRS</item>
+        <item>Principles of Accounts</item>
+        <item>Literature in English</item>
+    </string-array>
+
+    <!--Public Administration-->
+    <string-array name="public_admin_olevel">
+        <item>English Language (not Literature in English)</item>
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="public_admin_olevel_following">
+        <item>Economics or Commerce</item>
+        <item>Business Methods</item>
+        <item>Principles of Accounts</item>
+        <item>Literature in English</item>
+        <item>Geography</item>
+        <item>Office Practice</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>History or Government</item>
+        <item>Typewriting or Shorthand</item>
+    </string-array>
+    <string-array name="public_admin_jamb">
+        <item>Government or History</item>
+        <item>Economics or Commerce</item>
+        <item>Mathematics or CRK</item>
+    </string-array>
+    <string-array name="public_admin_jamb_following"/>
+
+    <!--Quantity Surveying-->
+    <string-array name="quantity_surveying_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+    </string-array>
+    <string-array name="quantity_surveying_olevel_following">
+        <item>Chemistry</item>
+        <item>Economics or Commerce</item>
+        <item>Geography</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Technical Drawing</item>
+    </string-array>
+    <string-array name="quantity_surveying_jamb"/>
+    <string-array name="quantity_surveying_jamb_following">
+        <item>Physics</item>
+        <item>Mathematics</item>
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Chemistry</item>
+    </string-array>
+
+    <!--Science Laboratory Technology-->
+    <string-array name="sci_lab_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+    </string-array>
+    <string-array name="sci_lab_olevel_following"/>
+    <string-array name="sci_lab_jamb"/>
+    <string-array name="sci_lab_jamb_following">
+        <item>Physics</item>
+        <item>Mathematics</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Chemistry</item>
+    </string-array>
+
+    <!--Statistics-->
+    <string-array name="stats_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+    </string-array>
+    <string-array name="stats_olevel_following">
+        <item>Economics or Commerce</item>
+        <item>Geography</item>
+        <item>Government or History</item>
+        <item>Further Mathematics</item>
+        <item>Chemistry</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Typewriting</item>
+        <item>Data Processing or Computer Studies</item>
+    </string-array>
+    <string-array name="stats_jamb">
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="stats_jamb_following">
+        <item>Further Mathematics or Additional Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Economics or Commerce</item>
+        <item>Geography</item>
+    </string-array>
+
+    <!--Surveying and Geoinformatics-->
+    <string-array name="surveying_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+    </string-array>
+    <string-array name="surveying_olevel_following">
+        <item>Further Mathematics</item>
+        <item>Chemistry</item>
+        <item>Technical Drawing or Fine Arts</item>
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Basic Electricity</item>
+    </string-array>
+    <string-array name="surveying_jamb">
+        <item>Physics</item>
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="surveying_jamb_following">
+        <item>Geography</item>
+        <item>Chemistry</item>
+        <item>Fine Arts</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Economics or Commerce</item>
+    </string-array>
+
+    <!--Urban and Regional Planning-->
+    <string-array name="urban_planning_olevel">
+        <item>English Language</item>
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="urban_planning_olevel_following">
+        <item>Economics or Commerce</item>
+        <item>Fine Arts/Technical Drawing</item>
+        <item>Further Mathematics</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>Biology or Agricultural Science</item>
+        <item>History or Government</item>
+        <item>Business Methods or Book Keeping</item>
+        <item>Principles of Accounts</item>
+        <item>Wood Work</item>
+        <item>Metal Work</item>
+    </string-array>
+    <string-array name="urban_planning_jamb">
+        <item>Mathematics</item>
+    </string-array>
+    <string-array name="urban_planning_jamb_following">
+        <item>Geography</item>
+        <item>Economics or Commerce</item>
+        <item>Biology or Agricultural Science</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Fine Arts or Technical Drawing</item>
+    </string-array>
+
+    <string name="course_item_format">%1$d). %2$s</string>
+    <string name="course_item_f_statement_format">%1$d). Any %2$d of the following:</string>
+    <string name="course_item_f_format">%1$s%2$s</string>
+
+</resources>

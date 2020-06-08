@@ -60,13 +60,23 @@ public class MainFragment extends Fragment {
                 binding.getRoot().setOnClickListener(new OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        //
+                        Intent intent = null;
                         switch (position) {
-                            case Constants.ADMISSION:
-                                // open all departments activity
-                                final Intent i = AllDepartmentsActivity.newIntent(getActivity());
-                                startActivity(i);
+                            case Constants.CHECK_RESULT:
+                                intent = CheckingAdmissionActivity.newIntent(getActivity());
                                 break;
+                            case Constants.REGISTER_COURSE:
+                                intent = RegistrationActivity.newIntent(getActivity());
+                                break;
+                            case Constants.GENERATE_REMITA:
+                                // todo
+                                break;
+                            case Constants.ADMISSION:
+                                intent = AllDepartmentsActivity.newIntent(getActivity());
+                                break;
+                        }
+                        if (intent != null) {
+                            startActivity(intent);
                         }
                     }
                 });

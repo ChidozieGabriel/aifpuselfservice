@@ -127,7 +127,7 @@
         <item>Health Science</item>
         <item>Computer Science</item>
     </string-array>
-    <string-array name="agric_jamb"/>
+    <string-array name="agric_jamb" />
     <string-array name="agric_jamb_following">
         <item>Mathematics</item>
         <item>Chemistry</item>
@@ -136,7 +136,7 @@
         <item>Geography</item>
         <item>Physics</item>
     </string-array>
-        
+
     <!--Architectural Technology-->
     <string-array name="archi_tech_olevel">
         <item>Mathematics</item>
@@ -188,7 +188,7 @@
         <item>Physics or Technical Drawing</item>
         <item>Chemistry or Fine Arts</item>
     </string-array>
-    <string-array name="build_tech_jamb_following"/>
+    <string-array name="build_tech_jamb_following" />
 
     <!--Business Administration & Management-->
     <string-array name="bus_admin_olevel">
@@ -239,7 +239,7 @@
         <item>Physics or Technical Drawing</item>
         <item>Chemistry</item>
     </string-array>
-    <string-array name="civil_engr_jamb_following"/>
+    <string-array name="civil_engr_jamb_following" />
 
     <!--Computer Engineering-->
     <string-array name="comp_engr_olevel">
@@ -265,7 +265,7 @@
         <item>Physics</item>
         <item>Chemistry or Technical Drawing</item>
     </string-array>
-    <string-array name="comp_engr_jamb_following"/>
+    <string-array name="comp_engr_jamb_following" />
 
     <!--Computer Science-->
     <string-array name="comp_sci_olevel">
@@ -315,7 +315,7 @@
         <item>Physics</item>
         <item>Chemistry or Technical Drawing</item>
     </string-array>
-    <string-array name="electr_engr_jamb_following"/>
+    <string-array name="electr_engr_jamb_following" />
 
     <!--Estate Management and Valuation-->
     <string-array name="estate_olevel">
@@ -387,7 +387,7 @@
         <item>Physics</item>
         <item>Fine Arts or Chemistry</item>
     </string-array>
-    <string-array name="glass_ceramics_jamb_following"/>
+    <string-array name="glass_ceramics_jamb_following" />
 
     <!--Horticultural Technology-->
     <string-array name="horticulture_olevel">
@@ -407,7 +407,7 @@
         <item>Geography</item>
         <item>Economics or Commerce</item>
     </string-array>
-    <string-array name="horticulture_jamb"/>
+    <string-array name="horticulture_jamb" />
     <string-array name="horticulture_jamb_following">
         <item>Mathematics</item>
         <item>Chemistry</item>
@@ -464,7 +464,7 @@
         <item>Commerce or Principles of Accounting</item>
         <item>Data Processing or Computer Studies</item>
     </string-array>
-    <string-array name="library_jamb"/>
+    <string-array name="library_jamb" />
     <string-array name="library_jamb_following">
         <item>Arts</item>
         <item>Social Science</item>
@@ -526,7 +526,7 @@
         <item>Chemistry</item>
         <item>Physics or Technical Drawing</item>
     </string-array>
-    <string-array name="mech_engr_jamb_following"/>
+    <string-array name="mech_engr_jamb_following" />
 
     <!--Mechatronics Engineering Technology-->
     <string-array name="mechatronics_olevel">
@@ -551,7 +551,7 @@
         <item>Chemistry</item>
         <item>Physics or Technical Drawing</item>
     </string-array>
-    <string-array name="mechatronics_jamb_following"/>
+    <string-array name="mechatronics_jamb_following" />
 
     <!--Metallurgical Engineering Technology-->
     <string-array name="metallurgical_olevel">
@@ -579,7 +579,7 @@
         <item>Chemistry</item>
         <item>Physics or Technical Drawing or Metal Works</item>
     </string-array>
-    <string-array name="metallurgical_jamb_following"/>
+    <string-array name="metallurgical_jamb_following" />
 
     <!--Office Technology and Management-->
     <string-array name="office_olevel">
@@ -601,7 +601,7 @@
         <item>Data Processing</item>
         <item>Any Science subject at not more than two sittings</item>
     </string-array>
-    <string-array name="office_jamb"/>
+    <string-array name="office_jamb" />
     <string-array name="office_jamb_following">
         <item>Mathematics</item>
         <item>Commerce or Economics</item>
@@ -635,7 +635,7 @@
         <item>Economics or Commerce</item>
         <item>Mathematics or CRK</item>
     </string-array>
-    <string-array name="public_admin_jamb_following"/>
+    <string-array name="public_admin_jamb_following" />
 
     <!--Quantity Surveying-->
     <string-array name="quantity_surveying_olevel">
@@ -650,7 +650,7 @@
         <item>Biology or Agricultural Science</item>
         <item>Technical Drawing</item>
     </string-array>
-    <string-array name="quantity_surveying_jamb"/>
+    <string-array name="quantity_surveying_jamb" />
     <string-array name="quantity_surveying_jamb_following">
         <item>Physics</item>
         <item>Mathematics</item>
@@ -668,8 +668,8 @@
         <item>Chemistry</item>
         <item>Physics</item>
     </string-array>
-    <string-array name="sci_lab_olevel_following"/>
-    <string-array name="sci_lab_jamb"/>
+    <string-array name="sci_lab_olevel_following" />
+    <string-array name="sci_lab_jamb" />
     <string-array name="sci_lab_jamb_following">
         <item>Physics</item>
         <item>Mathematics</item>
@@ -765,5 +765,31 @@
     <string name="course_item_format">%1$d). %2$s</string>
     <string name="course_item_f_statement_format">%1$d). Any %2$d of the following:</string>
     <string name="course_item_f_format">%1$s%2$s</string>
+    <string name="checking_of_admission">CHECKING OF ADMISSION</string>
+    <string name="checking_admission_details"><![CDATA[
+<b>1)</b> Candidates are to login to www.polyunwana.net <br><br>
+<b>2)</b> Select year of  application. (E.g 2019/2020 or 2019-2020) <br><br>
+<b>3)</b> Enter your application number (E.g. app/19/nd/05474 or app/19/hnd/08546) <br><br>
+<b>4)</b> Generate Remita to pay for Admission Checking and proceed to bank <br><br>
+<b>5)</b> After making the payment, login back to www.polyunwana.net perform step 3 above
+    ]]></string>
+    <string name="osu_moses">Osu Moses</string>
+    <string name="registration">Registration</string>
+    <string name="registration_online_details"><![CDATA[
+After checking and you are offered admission, <b>Congratulation!!</b><br>
+Rush to ICT for proper guideline.
+]]></string>
+    <string name="registration_course_details"><![CDATA[
+<b>Note:</b> Course Registration is open to those who paid school fees <br><br>
+<b>1.</b> Login to www.akanuibiamfedpoly.net <br><br>
+<b>2.</b> Enter Username ( E.g: 2019/nd/222222/cs). Note: Username is your registration number. <br><br>
+<b>3.</b> Enter Password equals “password” (For fresh students) <br><br>
+<b>4.</b> On the left pane of the screen, click on course registration <br><br>
+<b>5.</b> After that select Register New Courses <br><br>
+<b>6.</b> From the dialog box appeared, enter the course code, after entering all, click on register and click SAVE. <br><br>
+
+]]></string>
+    <string name="online_registration_fresh_students">Online Registration (Fresh Students)</string>
+    <string name="course_registration">Course Registration</string>
 
 </resources>

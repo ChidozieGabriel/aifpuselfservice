@@ -10,7 +10,7 @@ pipeline {
 }
 
 def gradlew(String... args) {
-  def command = "./gradlew ${args.join(' ')}"
+  def command = "./gradlew ${args.join(' ')} -s"
   shell(command)
 }
 

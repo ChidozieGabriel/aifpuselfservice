@@ -10,5 +10,15 @@ pipeline {
 }
 
 def gradlew(String... args) {
-    bat "./gradlew ${args.join(' ')} -s"
+  def command = "./gradlew ${args.join(' ')}"
+  shell(command)
+}
+
+// fix windows shell wahala
+def shell(String command) {
+   if (isUnix()) {
+    sh command
+  } else {
+    bat command
+  }
 }

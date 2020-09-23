@@ -3,9 +3,12 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh './gradlew assembleDebug'
+        gradlew('assembleDebug')
       }
     }
-
   }
+}
+
+def gradlew(String... args) {
+    bat "./gradlew ${args.join(' ')} -s"
 }

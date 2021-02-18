@@ -5,10 +5,10 @@
     <string name="text_aifpu_h_desk_version">v1.0</string>
 
     <string-array name="help_desk_list">
-        <item>How To Check Result</item>
+        <item>Admission Requirement</item>
+        <item>How To Check Admission</item>
         <item>How To Register Course</item>
         <item>How To Generate Remita From Your Portal</item>
-        <item>Admission Requirement</item>
     </string-array>
 
     <string name="button_all_departments">All Departments</string>
